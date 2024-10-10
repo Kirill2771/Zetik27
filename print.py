@@ -35,6 +35,5 @@ print(c)
 '''
 #print('hello world')
 #print('M + P = любовь')
-x = 3 + 4
+
 #print(x)
-ptint(type(x))
